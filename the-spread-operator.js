@@ -33,5 +33,5 @@ let obj3 = {...obj1, b: 5};
 console.log("Third Object:", obj3);
 
 // Copying only part of an array/object
-let arr5 = [...arr1. {...obj1}, ...arr3, "x", "y", "z"];
+let arr5 = [...arr1, {...obj1}, ...arr3, "x", "y", "z"];
 console.log(arr5)
