@@ -50,4 +50,4 @@ const students = [
   ]; 
 
   const studentsWithIds = students.map(student => [student.name, student.id]);
-  console.log(studentsWithIds);
+  console.log(studentsWithIds);  
